@@ -1,15 +1,11 @@
 # Star Jeans
 ![logo.png](https://raw.githubusercontent.com/pmusachio/star_jeans/main/logo.png)
 
-Eduardo and Marcelo are two Brazilians, friends and business partners.
+Star Jeans is a company that is entering the american men's jeans market, competing with H&M and Macys with an E-commerce business model.
 
-After several successful business, they are planning to enter the US fashion market as a E-commerce business model.
+The strategy is to keep the cost of operation low and scale as they acquire customers.
 
-The initial idea is to enter the market with just one product and for a specific audience, in the case the product would be Jenas pants for the male public, competing with the American H&M and Macys.
-
-The objective is to keep the cost of operation down and scale as they get customers.
-
-However, even with the entry product and audience defined, the two partners lack experience in this fashion market and therefore don't know how to define basic things like price, the type of pants and the material for the manufacture of each part.
+However, even with the entry product and the defined public, star jeans lacks experience in this fashion market and still does not know how to define things like price, type of pants and material for making each piece.
 
 ## Business Problem
 - What is the best selling price for the pants?
@@ -17,9 +13,19 @@ However, even with the entry product and audience defined, the two partners lack
 - What are the raw materials needed to make the pants?
 
 ## Business Assumptions
-
+- Pricing strategy can be defined based on the price of leading companies
+- H&M and Macys are reference companys in the market
 
 ## Solution Strategy
+- **What is the best selling price for the pants?**
+    - Use of webscraping to extract data related to the product using competitors websites as a benchmark ['H&M'](https://www2.hm.com/en_us/men/products/jeans.html) and ['Macys'](https://www.macys.com/shop/mens-clothing/mens-jeans?id=11221&edge=hybrid)
+    - Data Cleaning and Transformation of variables.
+
+
+- **How many types of pants and their colors for the initial product?**
+
+
+- **What are the raw materials needed to make the pants?**
 
 
 ## Top Insights
