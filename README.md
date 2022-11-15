@@ -1,9 +1,7 @@
 # Star Jeans
 ![logo.png](https://raw.githubusercontent.com/pmusachio/star_jeans/main/logo.png)
 
-Star Jeans is a company that is entering the american men's jeans market, competing with H&M and Macys with an E-commerce business model.
-
-The strategy is to keep the cost of operation low and scale as they acquire customers.
+Star Jeans is an E-commerce that is entering the American men's jeans market, its strategy will be to keep the operating cost low and scale as they gain customers.
 
 However, even with the entry product and the defined public, star jeans lacks experience in this fashion market and still does not know how to define things like price, type of pants and material for making each piece.
 
