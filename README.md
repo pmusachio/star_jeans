@@ -17,7 +17,12 @@ However, even with the entry product and the defined public, star jeans lacks ex
 ## Solution Strategy
 - **What is the best selling price for the pants?**
     - Use of webscraping to extract data related to the product using competitors websites as a benchmark ['H&M'](https://www2.hm.com/en_us/men/products/jeans.html) and ['Macys'](https://www.macys.com/shop/mens-clothing/mens-jeans?id=11221&edge=hybrid)
-    - Data Cleaning and Transformation of variables.
+    - Mount a database containing product information, price, type, color, exposure days.
+    - Defines the schema
+    - Build ETL
+    - Calculate the average price of competing sites by product, type and color in the last 30 days.
+    - Visualize the final product
+    - Delivery of the final product
 
 
 - **How many types of pants and their colors for the initial product?**
